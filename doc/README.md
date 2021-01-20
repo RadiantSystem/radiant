@@ -1,1 +1,1 @@
-Please see [the online documentation](https://doc.otrs.com/doc/).
+Please see [the online documentation](https://doc.radiantsd.com/doc/).
